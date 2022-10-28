@@ -10,6 +10,7 @@ char name[c] = {'Stepa Barasek', 'Valer Ghost', 'Tomas Prochaska'};
 char number[c] = {'+3479', '+853', '+2'};
 
 bool controlName(char input, int i){
+    //chlen
 
     int size = sizeof(input);
 
